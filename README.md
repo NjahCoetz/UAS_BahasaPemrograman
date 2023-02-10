@@ -15,7 +15,7 @@ Kelas : TI.22.C9
 daftar_nilai.py berisi modul untuk tambah data, ubah data, cari data, hapus data -cetak_nilai.py berisi modul untuk cetak daftar nilai, cetak hasil pencarian -nput_nilai.py berisi modul untuk input data yang diminta pengguna untuk memasukkan data -main.py berisi program secara keseluruhan -Susunan package dan modul nya akan terlihat seperti di bawah ini
 
 ### source code program python 
-![ing](ss/scmain.png)
+![ing](https://github.com/NjahCoetz/UAS_BahasaPemrograman/blob/main/image/uas1.png)
 
 ### sc cetak_nilai.py
 ![ing](ss/sccetak.png)

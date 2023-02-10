@@ -18,27 +18,27 @@ daftar_nilai.py berisi modul untuk tambah data, ubah data, cari data, hapus data
 ![ing](https://github.com/NjahCoetz/UAS_BahasaPemrograman/blob/main/image/uas1.png)
 
 ### sc cetak_nilai.py
-![ing](ss/sccetak.png)
+![ing](https://github.com/NjahCoetz/UAS_BahasaPemrograman/blob/main/image/uas2.png)
 
 ### sc daftar_nilai.py
-![ing](ss/scnilai.png)
+![ing](https://github.com/NjahCoetz/UAS_BahasaPemrograman/blob/main/image/uas3.png)
 
 ### sc main.py
-![ing](ss/scmain.png)
+![ing](https://github.com/NjahCoetz/UAS_BahasaPemrograman/blob/main/image/uas4.png)
 
 ### sc input_nilai.py
-![ing](ss/scnilai.png)
+![ing](https://github.com/NjahCoetz/UAS_BahasaPemrograman/blob/main/image/uas5.png)
 
 ### menu Output tambah data
-![ing](ss/tdata.png)
+![ing](https://github.com/NjahCoetz/UAS_BahasaPemrograman/blob/main/image/uas6.png)
 
 ### menu Output lihat data
-![ing](ss/ldata.png)
+![ing](https://github.com/NjahCoetz/UAS_BahasaPemrograman/blob/main/image/uas7.png)
 
 ### menu Output cari data
-![ing](ss/cdata.png)
+![ing](https://github.com/NjahCoetz/UAS_BahasaPemrograman/blob/main/image/uas8.png)
 
 ### menu Output hapus data
-![ing](ss/hdata.png)
+![ing](https://github.com/NjahCoetz/UAS_BahasaPemrograman/blob/main/image/uas9.png)
 
 TERIMAKASIH
